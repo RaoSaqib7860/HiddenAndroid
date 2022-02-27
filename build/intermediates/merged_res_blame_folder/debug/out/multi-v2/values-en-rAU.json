@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/appletech/Desktop/Droidian/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
+            "map": [
+                {
+                    "source": "/Users/appletech/.gradle/caches/transforms-3/ea36836c97c1c141353f7acdd87e0be6/transformed/core-1.0.0/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
