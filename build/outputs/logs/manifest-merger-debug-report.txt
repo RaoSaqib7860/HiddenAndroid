@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:1:1-157:12
-INJECTED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:1:1-157:12
-INJECTED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:1:1-157:12
-INJECTED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:1:1-157:12
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:1:1-153:12
+INJECTED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:1:1-153:12
+INJECTED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:1:1-153:12
+INJECTED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:1:1-153:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/appletech/.gradle/caches/transforms-3/3fe5827d6ee265022c6c7d744237ebf4/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.media:media:1.0.0] /Users/appletech/.gradle/caches/transforms-3/a44f7d642c441ca604adf667f4646668/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.0.0] /Users/appletech/.gradle/caches/transforms-3/7daf3f6dcef0f5c6cd2818e50c462a5f/transformed/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -29,9 +29,9 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/appletech/.gra
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/appletech/.gradle/caches/transforms-3/e39262abccdf4c3a9281c19542803319/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/appletech/.gradle/caches/transforms-3/98006fa0842eeb889f972732f9d31478/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/appletech/.gradle/caches/transforms-3/e656f0c5b9b75f08d112991d26ac37df/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:1:1-157:12
-INJECTED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:1:1-157:12
-INJECTED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:1:1-157:12
+INJECTED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:1:1-153:12
+INJECTED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:1:1-153:12
+INJECTED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:1:1-153:12
 	package
 		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:3:5-34
 		INJECTED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml
@@ -49,319 +49,319 @@ INJECTED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:7:5-8:11
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:7:5-81
 	android:name
 		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:7:22-78
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:9:5-10:11
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:8:5-77
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:9:22-74
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:8:22-74
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:11:5-12:11
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:9:5-78
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:11:22-75
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:9:22-75
 uses-permission#oppo.permission.OPPO_COMPONENT_SAFE
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:13:5-14:11
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:10:5-75
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:13:22-72
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:10:22-72
 uses-permission#com.huawei.permission.external_app_settings.USE_COMPONENT
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:15:5-16:11
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:11:5-97
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:15:22-94
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:11:22-94
 uses-permission#android.permission.BATTERY_STATS
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:17:5-18:47
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:12:5-14:47
 	tools:ignore
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:18:9-44
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:14:9-44
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:17:22-69
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:13:9-56
 supports-screens
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:21:5-24:40
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:17:5-20:40
 	android:largeScreens
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:22:9-36
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:18:9-36
 	android:xlargeScreens
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:24:9-37
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:20:9-37
 	android:resizeable
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:23:9-34
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:19:9-34
 application
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:26:5-84:19
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:22:5-80:19
 MERGED from [androidx.core:core:1.0.0] /Users/appletech/.gradle/caches/transforms-3/ea36836c97c1c141353f7acdd87e0be6/transformed/core-1.0.0/AndroidManifest.xml:22:5-89
 MERGED from [androidx.core:core:1.0.0] /Users/appletech/.gradle/caches/transforms-3/ea36836c97c1c141353f7acdd87e0be6/transformed/core-1.0.0/AndroidManifest.xml:22:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/appletech/.gradle/caches/transforms-3/3167448e1a0e3c67fc3145a4a742153b/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/appletech/.gradle/caches/transforms-3/3167448e1a0e3c67fc3145a4a742153b/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
 	android:requestLegacyExternalStorage
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:32:9-52
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:27:9-52
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.0] /Users/appletech/.gradle/caches/transforms-3/ea36836c97c1c141353f7acdd87e0be6/transformed/core-1.0.0/AndroidManifest.xml:22:18-86
 	android:label
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:29:9-41
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:25:9-41
 	android:persistent
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:30:9-34
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:26:9-34
 	android:icon
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:28:9-42
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:24:9-42
 	android:allowBackup
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:27:9-36
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:23:9-36
 	android:theme
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:33:9-41
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:28:9-41
 	android:usesCleartextTraffic
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:31:9-44
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:29:9-44
 activity#com.connect.Droidian
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:34:9-42:20
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:30:9-38:20
 	android:enabled
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:36:13-35
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:32:13-35
 	android:excludeFromRecents
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:37:13-46
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:33:13-46
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:35:13-48
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:31:13-48
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:38:13-41:29
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:34:13-37:29
 action#android.intent.action.MAIN
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:39:17-69
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:35:17-69
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:39:25-66
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:35:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:40:17-77
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:36:17-77
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:40:27-74
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:36:27-74
 activity#com.connect.Dialog
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:39:9-42:58
+	android:enabled
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:41:13-35
+	android:excludeFromRecents
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:42:13-46
+	android:name
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:40:13-46
+activity#com.connect.CameraView
 ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:43:9-46:58
 	android:enabled
 		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:45:13-35
 	android:excludeFromRecents
 		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:46:13-46
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:44:13-46
-activity#com.connect.CameraView
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:44:13-50
+activity#com.connect.VideoView
 ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:47:9-50:58
 	android:enabled
 		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:49:13-35
 	android:excludeFromRecents
 		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:50:13-46
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:48:13-50
-activity#com.connect.VideoView
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:51:9-54:58
-	android:enabled
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:53:13-35
-	android:excludeFromRecents
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:54:13-46
-	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:52:13-49
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:48:13-49
 service#com.connect.DroidianService
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:56:9-61:49
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:52:9-57:49
 	android:enabled
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:58:13-35
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:54:13-35
 	android:exported
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:59:13-36
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:55:13-36
 	android:permission
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:60:13-69
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:56:13-69
 	android:persistent
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:61:13-38
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:57:13-38
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:57:13-55
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:53:13-55
 service#com.connect.RecordService
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:62:9-69
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:58:9-69
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:62:18-58
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:58:18-58
 receiver#com.connect.ServiceReceiver
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:64:9-83:20
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:60:9-79:20
 	android:enabled
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:68:13-35
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:62:13-35
 	android:exported
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:66:13-36
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:63:13-36
 	android:permission
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:67:13-75
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:64:13-75
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:65:13-55
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:61:13-55
 intent-filter#action:name:android.intent.action.ACTION_EXTERNAL_APPLICATIONS_AVAILABLE+action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.LOCKED_BOOT_COMPLETED+action:name:android.intent.action.PHONE_STATE+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:android.intent.action.REBOOT+action:name:android.intent.action.USER_PRESENT+action:name:android.provider.Telephony.SMS_RECEIVED+action:name:com.example.autostart.ACTION_EXPLICIT_BROADCAST+action:name:com.example.autostart.ACTION_IMPLICIT_BROADCAST+action:name:com.example.autostart.CATEGORY_AUTOSTART+category:name:android.intent.category.DEFAULT
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:69:13-82:29
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:65:13-78:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:70:17-79
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:66:17-79
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:70:25-76
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:66:25-76
 action#android.provider.Telephony.SMS_RECEIVED
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:71:17-82
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:67:17-82
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:71:25-79
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:67:25-79
 action#android.intent.action.PHONE_STATE
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:72:17-76
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:68:17-76
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:72:25-73
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:68:25-73
 action#android.intent.action.ACTION_EXTERNAL_APPLICATIONS_AVAILABLE
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:73:17-103
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:69:17-103
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:73:25-100
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:69:25-100
 action#android.intent.action.QUICKBOOT_POWERON
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:74:17-81
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:70:17-82
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:74:25-79
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:70:25-79
 category#android.intent.category.DEFAULT
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:75:17-76
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:71:17-76
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:75:27-73
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:71:27-73
 action#com.example.autostart.CATEGORY_AUTOSTART
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:76:17-82
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:72:17-83
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:76:25-80
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:72:25-80
 action#com.example.autostart.ACTION_IMPLICIT_BROADCAST
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:77:17-89
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:73:17-90
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:77:25-87
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:73:25-87
 action#com.example.autostart.ACTION_EXPLICIT_BROADCAST
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:78:17-89
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:74:17-90
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:78:25-87
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:74:25-87
 action#android.intent.action.LOCKED_BOOT_COMPLETED
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:79:17-86
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:75:17-86
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:79:25-83
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:75:25-83
 action#android.intent.action.REBOOT
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:80:17-70
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:76:17-71
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:80:25-68
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:76:25-68
 action#android.intent.action.USER_PRESENT
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:81:17-76
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:77:17-77
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:81:25-74
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:77:25-74
 uses-permission#android.permission.QUICKBOOT_POWERON
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:86:5-88:35
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:82:5-84:35
 	android:required
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:88:9-32
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:84:9-32
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:87:9-60
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:83:9-60
 uses-permission#android.permission.INTERNET
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:89:5-91:35
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:85:5-87:35
 	android:required
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:91:9-32
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:87:9-32
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:90:9-51
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:86:9-51
 uses-permission#android.permission.READ_SMS
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:92:5-94:35
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:88:5-90:35
 	android:required
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:94:9-32
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:90:9-32
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:93:9-51
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:89:9-51
 uses-permission#android.permission.WRITE_SMS
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:95:5-97:35
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:91:5-93:35
 	android:required
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:97:9-32
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:93:9-32
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:96:9-52
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:92:9-52
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:98:5-101:35
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:94:5-97:47
 	tools:ignore
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:100:9-44
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:97:9-44
+	android:required
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:96:9-32
+	android:name
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:95:9-55
+uses-permission#com.android.browser.permission.READ_HISTORY_BOOKMARKS
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:98:5-93
+	android:name
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:98:22-90
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:99:5-101:35
 	android:required
 		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:101:9-32
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:99:9-55
-uses-permission#com.android.browser.permission.READ_HISTORY_BOOKMARKS
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:102:5-93
-	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:102:22-90
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:103:5-105:35
-	android:required
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:105:9-32
-	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:104:9-63
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:100:9-63
 uses-permission#android.permission.READ_CONTACTS
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:106:5-108:35
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:102:5-104:35
 	android:required
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:108:9-32
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:104:9-32
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:107:9-56
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:103:9-56
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:109:5-111:35
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:105:5-107:35
 	android:required
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:111:9-32
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:107:9-32
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:110:9-63
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:106:9-63
 uses-permission#android.permission.GET_TASKS
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:112:5-114:35
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:108:5-110:35
 	android:required
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:114:9-32
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:110:9-32
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:113:9-52
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:109:9-52
 uses-permission#android.permission.WAKE_LOCK
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:115:5-117:35
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:111:5-113:35
 	android:required
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:117:9-32
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:113:9-32
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:116:9-52
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:112:9-52
 uses-permission#android.permission.CALL_PHONE
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:118:5-120:35
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:114:5-116:35
 	android:required
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:120:9-32
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:116:9-32
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:119:9-53
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:115:9-53
 uses-permission#android.permission.SEND_SMS
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:121:5-123:35
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:117:5-119:35
 	android:required
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:123:9-32
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:119:9-32
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:122:9-51
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:118:9-51
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:124:5-126:36
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:120:5-122:36
 	android:required
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:126:9-33
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:122:9-33
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:125:9-59
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:121:9-59
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:127:5-129:35
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:123:5-125:35
 	android:required
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:129:9-32
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:125:9-32
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:128:9-65
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:124:9-65
 uses-permission#android.permission.CAMERA
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:130:5-132:35
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:126:5-128:35
 	android:required
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:132:9-32
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:128:9-32
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:131:9-49
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:127:9-49
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:133:5-135:35
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:129:5-131:35
 	android:required
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:135:9-32
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:131:9-32
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:134:9-55
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:130:9-55
 uses-permission#android.permission.PROCESS_OUTGOING_CALLS
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:136:5-138:35
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:132:5-134:35
 	android:required
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:138:9-32
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:134:9-32
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:137:9-65
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:133:9-65
 uses-permission#android.permission.RECEIVE_SMS
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:139:5-141:35
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:135:5-137:35
 	android:required
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:141:9-32
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:137:9-32
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:140:9-54
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:136:9-54
 uses-feature#android.hardware.camera
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:143:5-145:36
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:139:5-141:36
 	android:required
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:145:9-33
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:141:9-33
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:144:9-47
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:140:9-47
 uses-feature#android.hardware.camera.front
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:146:5-148:36
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:142:5-144:36
 	android:required
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:148:9-33
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:144:9-33
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:147:9-53
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:143:9-53
 uses-feature#android.hardware.camera.autofocus
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:149:5-151:36
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:145:5-147:36
 	android:required
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:151:9-33
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:147:9-33
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:150:9-57
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:146:9-57
 uses-feature#android.hardware.microphone
-ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:152:5-155:36
+ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:148:5-151:47
 	tools:ignore
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:154:9-44
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:151:9-44
 	android:required
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:155:9-33
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:150:9-33
 	android:name
-		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:153:9-51
+		ADDED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:149:9-51
 uses-sdk
 INJECTED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml

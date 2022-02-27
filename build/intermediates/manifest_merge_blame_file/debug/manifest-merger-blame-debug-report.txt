@@ -8,300 +8,300 @@
 7-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml
 8
 9    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-9-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:7:5-8:11
+9-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:7:5-81
 9-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:7:22-78
 10    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-10-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:9:5-10:11
-10-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:9:22-74
+10-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:8:5-77
+10-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:8:22-74
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:11:5-12:11
-11-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:11:22-75
+11-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:9:5-78
+11-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:9:22-75
 12    <uses-permission android:name="oppo.permission.OPPO_COMPONENT_SAFE" />
-12-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:13:5-14:11
-12-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:13:22-72
+12-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:10:5-75
+12-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:10:22-72
 13    <uses-permission android:name="com.huawei.permission.external_app_settings.USE_COMPONENT" />
-13-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:15:5-16:11
-13-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:15:22-94
+13-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:11:5-97
+13-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:11:22-94
 14    <uses-permission android:name="android.permission.BATTERY_STATS" />
-14-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:17:5-18:47
-14-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:17:22-69
+14-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:12:5-14:47
+14-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:13:9-56
 15
 16    <supports-screens
-16-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:21:5-24:40
+16-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:17:5-20:40
 17        android:largeScreens="true"
-17-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:22:9-36
+17-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:18:9-36
 18        android:resizeable="true"
-18-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:23:9-34
+18-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:19:9-34
 19        android:xlargeScreens="true" />
-19-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:24:9-37
+19-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:20:9-37
 20
 21    <uses-permission
-21-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:86:5-88:35
+21-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:82:5-84:35
 22        android:name="android.permission.QUICKBOOT_POWERON"
-22-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:87:9-60
+22-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:83:9-60
 23        android:required="true" />
-23-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:88:9-32
+23-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:84:9-32
 24    <uses-permission
-24-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:89:5-91:35
+24-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:85:5-87:35
 25        android:name="android.permission.INTERNET"
-25-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:90:9-51
+25-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:86:9-51
 26        android:required="true" />
-26-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:91:9-32
+26-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:87:9-32
 27    <uses-permission
-27-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:92:5-94:35
+27-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:88:5-90:35
 28        android:name="android.permission.READ_SMS"
-28-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:93:9-51
+28-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:89:9-51
 29        android:required="true" />
-29-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:94:9-32
+29-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:90:9-32
 30    <uses-permission
-30-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:95:5-97:35
+30-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:91:5-93:35
 31        android:name="android.permission.WRITE_SMS"
-31-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:96:9-52
+31-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:92:9-52
 32        android:required="true" />
-32-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:97:9-32
+32-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:93:9-32
 33    <uses-permission
-33-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:98:5-101:35
+33-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:94:5-97:47
 34        android:name="android.permission.GET_ACCOUNTS"
-34-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:99:9-55
+34-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:95:9-55
 35        android:required="true" />
-35-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:101:9-32
+35-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:96:9-32
 36    <uses-permission android:name="com.android.browser.permission.READ_HISTORY_BOOKMARKS" />
-36-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:102:5-93
-36-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:102:22-90
+36-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:98:5-93
+36-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:98:22-90
 37    <uses-permission
-37-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:103:5-105:35
+37-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:99:5-101:35
 38        android:name="android.permission.ACCESS_NETWORK_STATE"
-38-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:104:9-63
+38-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:100:9-63
 39        android:required="true" />
-39-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:105:9-32
+39-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:101:9-32
 40    <uses-permission
-40-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:106:5-108:35
+40-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:102:5-104:35
 41        android:name="android.permission.READ_CONTACTS"
-41-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:107:9-56
+41-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:103:9-56
 42        android:required="true" />
-42-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:108:9-32
+42-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:104:9-32
 43    <uses-permission
-43-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:109:5-111:35
+43-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:105:5-107:35
 44        android:name="android.permission.ACCESS_FINE_LOCATION"
-44-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:110:9-63
+44-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:106:9-63
 45        android:required="true" />
-45-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:111:9-32
+45-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:107:9-32
 46    <uses-permission
-46-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:112:5-114:35
+46-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:108:5-110:35
 47        android:name="android.permission.GET_TASKS"
-47-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:113:9-52
+47-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:109:9-52
 48        android:required="true" />
-48-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:114:9-32
+48-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:110:9-32
 49    <uses-permission
-49-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:115:5-117:35
+49-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:111:5-113:35
 50        android:name="android.permission.WAKE_LOCK"
-50-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:116:9-52
+50-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:112:9-52
 51        android:required="true" />
-51-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:117:9-32
+51-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:113:9-32
 52    <uses-permission
-52-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:118:5-120:35
+52-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:114:5-116:35
 53        android:name="android.permission.CALL_PHONE"
-53-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:119:9-53
+53-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:115:9-53
 54        android:required="true" />
-54-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:120:9-32
+54-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:116:9-32
 55    <uses-permission
-55-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:121:5-123:35
+55-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:117:5-119:35
 56        android:name="android.permission.SEND_SMS"
-56-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:122:9-51
+56-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:118:9-51
 57        android:required="true" />
-57-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:123:9-32
+57-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:119:9-32
 58    <uses-permission
-58-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:124:5-126:36
+58-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:120:5-122:36
 59        android:name="android.permission.READ_PHONE_STATE"
-59-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:125:9-59
+59-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:121:9-59
 60        android:required="false" />
-60-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:126:9-33
+60-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:122:9-33
 61    <uses-permission
-61-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:127:5-129:35
+61-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:123:5-125:35
 62        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
-62-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:128:9-65
+62-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:124:9-65
 63        android:required="true" />
-63-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:129:9-32
+63-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:125:9-32
 64    <uses-permission
-64-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:130:5-132:35
+64-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:126:5-128:35
 65        android:name="android.permission.CAMERA"
-65-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:131:9-49
+65-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:127:9-49
 66        android:required="true" />
-66-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:132:9-32
+66-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:128:9-32
 67    <uses-permission
-67-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:133:5-135:35
+67-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:129:5-131:35
 68        android:name="android.permission.RECORD_AUDIO"
-68-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:134:9-55
+68-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:130:9-55
 69        android:required="true" />
-69-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:135:9-32
+69-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:131:9-32
 70    <uses-permission
-70-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:136:5-138:35
+70-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:132:5-134:35
 71        android:name="android.permission.PROCESS_OUTGOING_CALLS"
-71-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:137:9-65
+71-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:133:9-65
 72        android:required="true" />
-72-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:138:9-32
+72-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:134:9-32
 73    <uses-permission
-73-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:139:5-141:35
+73-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:135:5-137:35
 74        android:name="android.permission.RECEIVE_SMS"
-74-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:140:9-54
+74-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:136:9-54
 75        android:required="true" />
-75-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:141:9-32
+75-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:137:9-32
 76
 77    <uses-feature
-77-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:143:5-145:36
+77-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:139:5-141:36
 78        android:name="android.hardware.camera"
-78-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:144:9-47
+78-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:140:9-47
 79        android:required="false" />
-79-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:145:9-33
+79-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:141:9-33
 80    <uses-feature
-80-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:146:5-148:36
+80-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:142:5-144:36
 81        android:name="android.hardware.camera.front"
-81-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:147:9-53
+81-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:143:9-53
 82        android:required="false" />
-82-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:148:9-33
+82-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:144:9-33
 83    <uses-feature
-83-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:149:5-151:36
+83-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:145:5-147:36
 84        android:name="android.hardware.camera.autofocus"
-84-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:150:9-57
+84-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:146:9-57
 85        android:required="false" />
-85-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:151:9-33
+85-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:147:9-33
 86    <uses-feature
-86-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:152:5-155:36
+86-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:148:5-151:47
 87        android:name="android.hardware.microphone"
-87-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:153:9-51
+87-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:149:9-51
 88        android:required="false" />
-88-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:155:9-33
+88-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:150:9-33
 89
 90    <application
-90-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:26:5-84:19
+90-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:22:5-80:19
 91        android:allowBackup="false"
-91-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:27:9-36
+91-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:23:9-36
 92        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 92-->[androidx.core:core:1.0.0] /Users/appletech/.gradle/caches/transforms-3/ea36836c97c1c141353f7acdd87e0be6/transformed/core-1.0.0/AndroidManifest.xml:22:18-86
 93        android:debuggable="true"
 94        android:icon="@drawable/launcher"
-94-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:28:9-42
+94-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:24:9-42
 95        android:label="@string/app_name"
-95-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:29:9-41
+95-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:25:9-41
 96        android:persistent="true"
-96-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:30:9-34
+96-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:26:9-34
 97        android:requestLegacyExternalStorage="true"
-97-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:32:9-52
+97-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:27:9-52
 98        android:testOnly="true"
 99        android:theme="@style/Invisible"
-99-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:33:9-41
+99-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:28:9-41
 100        android:usesCleartextTraffic="true" >
-100-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:31:9-44
+100-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:29:9-44
 101        <activity
-101-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:34:9-42:20
+101-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:30:9-38:20
 102            android:name="com.connect.Droidian"
-102-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:35:13-48
+102-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:31:13-48
 103            android:enabled="true"
-103-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:36:13-35
+103-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:32:13-35
 104            android:excludeFromRecents="true" >
-104-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:37:13-46
+104-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:33:13-46
 105            <intent-filter>
-105-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:38:13-41:29
+105-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:34:13-37:29
 106                <action android:name="android.intent.action.MAIN" />
-106-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:39:17-69
-106-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:39:25-66
+106-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:35:17-69
+106-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:35:25-66
 107
 108                <category android:name="android.intent.category.LAUNCHER" />
-108-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:40:17-77
-108-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:40:27-74
+108-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:36:17-77
+108-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:36:27-74
 109            </intent-filter>
 110        </activity>
 111        <activity
-111-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:43:9-46:58
+111-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:39:9-42:58
 112            android:name="com.connect.Dialog"
-112-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:44:13-46
+112-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:40:13-46
 113            android:enabled="true"
-113-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:45:13-35
+113-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:41:13-35
 114            android:excludeFromRecents="true" />
-114-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:46:13-46
+114-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:42:13-46
 115        <activity
-115-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:47:9-50:58
+115-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:43:9-46:58
 116            android:name="com.connect.CameraView"
-116-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:48:13-50
+116-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:44:13-50
 117            android:enabled="true"
-117-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:49:13-35
+117-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:45:13-35
 118            android:excludeFromRecents="true" />
-118-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:50:13-46
+118-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:46:13-46
 119        <activity
-119-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:51:9-54:58
+119-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:47:9-50:58
 120            android:name="com.connect.VideoView"
-120-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:52:13-49
+120-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:48:13-49
 121            android:enabled="true"
-121-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:53:13-35
+121-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:49:13-35
 122            android:excludeFromRecents="true" />
-122-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:54:13-46
+122-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:50:13-46
 123
 124        <service
-124-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:56:9-61:49
+124-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:52:9-57:49
 125            android:name="com.connect.DroidianService"
-125-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:57:13-55
+125-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:53:13-55
 126            android:enabled="true"
-126-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:58:13-35
+126-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:54:13-35
 127            android:exported="true"
-127-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:59:13-36
+127-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:55:13-36
 128            android:permission="android.permission.BIND_JOB_SERVICE"
-128-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:60:13-69
+128-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:56:13-69
 129            android:persistent="true" />
-129-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:61:13-38
+129-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:57:13-38
 130        <service android:name="com.connect.RecordService" />
-130-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:62:9-69
-130-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:62:18-58
+130-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:58:9-69
+130-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:58:18-58
 131
 132        <receiver
-132-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:64:9-83:20
+132-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:60:9-79:20
 133            android:name="com.connect.ServiceReceiver"
-133-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:65:13-55
+133-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:61:13-55
 134            android:enabled="true"
-134-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:68:13-35
+134-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:62:13-35
 135            android:exported="true"
-135-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:66:13-36
+135-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:63:13-36
 136            android:permission="android.permission.RECEIVE_BOOT_COMPLETED" >
-136-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:67:13-75
+136-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:64:13-75
 137            <intent-filter>
-137-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:69:13-82:29
+137-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:65:13-78:29
 138                <action android:name="android.intent.action.BOOT_COMPLETED" />
-138-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:70:17-79
-138-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:70:25-76
+138-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:66:17-79
+138-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:66:25-76
 139                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
-139-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:71:17-82
-139-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:71:25-79
+139-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:67:17-82
+139-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:67:25-79
 140                <action android:name="android.intent.action.PHONE_STATE" />
-140-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:72:17-76
-140-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:72:25-73
+140-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:68:17-76
+140-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:68:25-73
 141                <action android:name="android.intent.action.ACTION_EXTERNAL_APPLICATIONS_AVAILABLE" />
-141-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:73:17-103
-141-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:73:25-100
+141-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:69:17-103
+141-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:69:25-100
 142                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
-142-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:74:17-81
-142-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:74:25-79
+142-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:70:17-82
+142-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:70:25-79
 143
 144                <category android:name="android.intent.category.DEFAULT" />
-144-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:75:17-76
-144-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:75:27-73
+144-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:71:17-76
+144-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:71:27-73
 145
 146                <action android:name="com.example.autostart.CATEGORY_AUTOSTART" />
-146-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:76:17-82
-146-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:76:25-80
+146-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:72:17-83
+146-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:72:25-80
 147                <action android:name="com.example.autostart.ACTION_IMPLICIT_BROADCAST" />
-147-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:77:17-89
-147-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:77:25-87
+147-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:73:17-90
+147-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:73:25-87
 148                <action android:name="com.example.autostart.ACTION_EXPLICIT_BROADCAST" />
-148-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:78:17-89
-148-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:78:25-87
+148-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:74:17-90
+148-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:74:25-87
 149                <action android:name="android.intent.action.LOCKED_BOOT_COMPLETED" />
-149-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:79:17-86
-149-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:79:25-83
+149-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:75:17-86
+149-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:75:25-83
 150                <action android:name="android.intent.action.REBOOT" />
-150-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:80:17-70
-150-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:80:25-68
+150-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:76:17-71
+150-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:76:25-68
 151                <action android:name="android.intent.action.USER_PRESENT" />
-151-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:81:17-76
-151-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:81:25-74
+151-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:77:17-77
+151-->/Users/appletech/Desktop/Droidian/app/src/main/AndroidManifest.xml:77:25-74
 152            </intent-filter>
 153        </receiver>
 154    </application>
